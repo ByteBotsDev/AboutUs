@@ -10,7 +10,7 @@ We do mainly Discord bots and websites. If you want to know more about our work,
 ## The Crew
 *As of today, 1st of June 2023*
 
-- s1ckles - Owner, Founder and Head Developer
+- fye - Owner, Founder and Head Developer
 - Sidro (Simon) - Admin, Developer
 - Sofija - Admin, Head Developer
 - Flary - Admin, Developer
