@@ -8,7 +8,7 @@ We are a group of beginning and non-beginning developers that had decided to wor
 We do mainly Discord bots and websites. If you want to know more about our work, join our [Discord](https://discord.gg/JarZxP2WBE)
 
 ## The Crew
-*As of today, 1st of June 2023
+*As of today, 1st of June 2023*
 
 - s1ckles - Owner, Founder and Head Developer
 - Sidro (Simon) - Admin, Developer
